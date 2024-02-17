@@ -1,5 +1,5 @@
 {
-    "name": "Cyber-X WhatsApp Bot",
+    "name": "Rizwan-zidi WhatsApp Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
@@ -14,22 +14,22 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": ""
+            "value": "cyber-x@;;;pdEwxTLQ#VpjiM8A-qGpI6tJEyyw_wkeRSES0ZOxofrDnNxsuJ7k"
         },
         "HEROKU_API_KEY": {
             "description": "Enter your heroku account api key",
             "required": true,
-            "value": ""
+            "value": "e264c15d-ed76-4614-bed6-88e55b42fbc5"
         },
         "HEROKU_APP_NAME": {
-            "description": "Enter you pushed app Name",
+            "description": "Enter you pushed name here",
             "required": true,
-            "value": ""
+            "value": "rizwan7865"
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
